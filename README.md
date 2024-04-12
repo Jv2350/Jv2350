@@ -3,16 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jv2350&label=Profile%20views&color=0e75b6&style=flat" alt="jv2350" /> </p>
 <img src="https://github-profile-trophy.vercel.app?username=jv2350&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
-- 🔭 I’m currently working on **ProjectGallery, CodingPortfolio, Examify**
-
-- 🌱 I’m currently learning **Data Structure & Algorithms, Computer Networks, Computer Science**
-
-- 👯 I’m looking to collaborate on **Open Source Projects, Community Projects**
-
-- 🤝 I’m looking for help with **Technical Documentation, Software Development**
-
-- 💬 Ask me about **Java, C, C#, front-end design**
-
 - 📫 How to reach me **jv393619@gmail.com**
 
 - ⚡ Fun fact **I can memorize entire pages of text in under a minute but face difficulty in remembering names ;)**
@@ -50,8 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jv2350&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jv2350&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jv2350&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jv2350&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+
 
 ###
 

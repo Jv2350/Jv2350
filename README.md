@@ -7,7 +7,7 @@
 
 ---
 
-- 📫 **Reach me at:**  
+- 📫 **Reach me at:**
   [📧 Email](mailto:jv393619@gmail.com)
 
 ---
@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jv2350&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv2350&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=jv2350&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=jv2350&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---

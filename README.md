@@ -39,15 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jv2350&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv2350&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="150" alt="Top Languages" />
-<<<<<<< HEAD
  <img src="https://streak-stats.demolab.com?user=jv2350&theme=dracula" alt="GitHub Streak" />
-=======
-<<<<<<< HEAD
- <img src="https://streak-stats.demolab.com?user=jv2350&theme=dracula" alt="GitHub Streak" />
-=======
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jv2350&theme=dracula" alt="GitHub Streak" /></a>
->>>>>>> ebb4b86d97be22e0b5450c312ec077b67afc9f27
->>>>>>> f788ba21f26f2d4bd11d46c8d69c6ac51a912729
 </p>
 
 ---
